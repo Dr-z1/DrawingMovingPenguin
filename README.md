@@ -1,36 +1,48 @@
-# DrawingMovingPenguin
+# **Penguin Webpage Project**
 
+## **Project Overview**
 
-Drawing Moving Penguin
+#### This Project Is A **Penguin**, Developed As Part of The FreeCodeCamp Curriculum. 
 
+#### The Primary Goal Is Learn CSS  Transforms By Building A Penguin.
 
-This website was built using Free Code Camp instructions: Learn CSS Transforms by building Penguin
+## **Course Details**
 
-Section: Responsive Web Design
++ **Course Section**: Responsive Web Design.
+  
++ **Project Name**: Penguin.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In Responsive Web Design.
 
-Course Name: Learn CSS Transforms by building Penguin 
+## **Purpose**
 
-Deatils:
+You Can Transform HTML Elements To Create Appealing Designs That Draw Your Reader's Eye. 
 
-You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.
+You Can Use Transforms To Rotate Elements, Scale Them, And More.  
 
-In this course, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work.
+In This Course, You'll Build A Penguin. 
 
-link:
+You'll Use CSS Transforms To Position And Resize The Parts Of Your Penguin, Create A Background, And Animate Your Work.
 
-https://www.freecodecamp.org/
+## **Acknowledgment**
 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
+**All rights** To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-on Projects.
 
+I Am Showcasing This Project As Part of My Learning Journey, Completed Based on FreeCodeCamp's Resources And Guidance.
 
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## **Special Thanks**
 
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+**[@codeManS](https://www.youtube.com/@codeManS)**
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
